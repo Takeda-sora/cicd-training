@@ -8,8 +8,8 @@ public class SampleTest {
     @Test
     public void testMethod(){
 
-        String a = "ABC";
-        String b = "ABC";
+        String a = "AB";
+        String b = "AB";
 
         Assertions.assertEquals(a, b);
 
